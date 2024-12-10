@@ -1,0 +1,32 @@
+body {
+    background-color: #3B3B3B;
+    /* text-align: center; */
+}
+
+#BigLogo {
+    color: #B85C38;
+    margin: 1% auto 0;
+    width: fit-content;
+    background-color: #E0C097;
+    border-radius: 30pt;
+    text-align: center;
+    padding: 1% 40%;
+}
+
+#LogoExplain {
+    background-color: #FEFBF3;
+    text-align: left;
+    margin-top: 0.5%;
+}
+
+#BigMenu {
+    background-color: #E0C097;
+}
+
+#HefanMenu {
+    background-color: #E0C097;
+}
+
+#ChaocaiMenu {
+    background-color: #E0C097;
+}
